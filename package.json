@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-appconfig": "^3.848.0",
+    "@pulumi/aws": "^6.83.0",
+    "@pulumi/pulumi": "^3.186.0"
+  }
+}

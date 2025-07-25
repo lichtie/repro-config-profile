@@ -1,0 +1,6 @@
+name: repro-config-profile
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+description: An AWS App Config Configuration profile
